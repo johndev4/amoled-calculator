@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">AMOLED Calculator</string>
+
+    <string name="c">c</string>
+    <string name="equal">=</string>
+    <string name="percent">%</string>
+    <string name="mod">Mod</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="subtract">−</string>
+    <string name="add">+</string>
+    <string name="_9">9</string>
+    <string name="_8">8</string>
+    <string name="_7">7</string>
+    <string name="_6">6</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="_0">0</string>
+    <string name="negative">±</string>
+    <string name="period">.</string>
+
+
+    <string name="alternate">Inv</string>
+    <string name="deg">Deg</string>
+    <string name="rad">Rad</string>
+
+
+    <string name="base_10">10ˣ</string>
+    <string name="base_2">2ˣ</string>
+
+    <string name="sin">sin</string>
+    <string name="asin">sin⁻¹</string>
+    <string name="cos">cos</string>
+    <string name="acos">cos⁻¹</string>
+    <string name="tan">tan</string>
+    <string name="atan">tan⁻¹</string>
+
+    <string name="sinh">sinh</string>
+    <string name="asinh">sinh⁻¹</string>
+    <string name="cosh">cosh</string>
+    <string name="acosh">cosh⁻¹</string>
+    <string name="tanh">tanh</string>
+    <string name="atanh">tanh⁻¹</string>
+
+    <string name="squared">x²</string>
+    <string name="cubed">x³</string>
+    <string name="square_root">√</string>
+    <string name="cube_root">³√</string>
+    <string name="exponent_n">xⁿ</string>
+    <string name="absolute">|x|</string>
+
+    <string name="E">℮</string>
+    <string name="base_E">℮ˣ</string>
+    <string name="Pi">π</string>
+    <string name="factorial">x!</string>
+    <string name="log10">log</string>
+    <string name="ln">ln</string>
+
+</resources>
