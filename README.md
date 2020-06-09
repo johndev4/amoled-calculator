@@ -24,4 +24,4 @@ A calculator app which perform arithmetic operation such as addition, subtractio
 
 #
 
-APK Download Link: shorturl.at/puIMY
+APK Download Link: https://shorturl.at/kpFQT
