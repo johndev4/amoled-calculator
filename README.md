@@ -24,4 +24,4 @@ A calculator app which perform arithmetic operation such as addition, subtractio
 
 #
 
-APK Download Link: https://shorturl.at/kpFQT
+APK Download Link: http://www.mediafire.com/file/hwca0ttt91v8kvf/amoled-calculator-ver.1.0.rar/file
